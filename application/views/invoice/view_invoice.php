@@ -82,7 +82,7 @@
 
     table th, table td {
       
-        /* border: 1px solid #000 !important; */
+        border: none!important;
         text-align: left;
         font-size: 14px;
         font-weight:bold;
